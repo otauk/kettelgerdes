@@ -1,0 +1,589 @@
+// out: ./style.css, sourcemap: false, compress: true
+
+@kg-sand:rgb(233,211,167);
+@kg-hellgruen: rgb(171,187,172);
+@kg-dunkelgruen:rgb(98,109,100);
+/*@kg-grau:*/
+@kg-dunkelbraun:rgb(83,66,64);
+@kg-braun:rgb(116,94,91);
+@kg-rosa:rgb(161,133,129);
+@kg-hellrosa: rgb(196,181,177);
+
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+body, html { font-size: 100%; padding: 0; margin: 0;}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: @kg-braun;
+	font-size: 15px;
+	font-weight: normal;
+	 -webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: #aaa;
+	text-decoration: none;
+}
+
+a:visited,
+a:hover,
+a:active,
+ {
+	color: #333;
+	text-decoration: none;
+}
+
+/* Container */
+.container {
+	margin: 0 auto;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+/* Rows */
+.row {
+	margin: 1.5em 0;
+	padding: 1.5em 0;
+}
+
+.sandstone {
+	background: fade(@kg-sand,20%);
+}
+
+.earth {
+	background: @kg-braun;
+}
+
+.darkearth {
+	background: @kg-dunkelbraun;
+}
+
+.rechteck {
+	margin-top: -50px;
+
+	& .haken {
+		position: relative;
+		width: 600px;
+		height: 50px;
+		background: #fff;
+		margin: 0 auto;
+		z-index: 1;
+	}
+
+	& h2 {
+		position: relative;
+		z-index:1;
+		margin-top: -35px;
+	}
+
+}
+
+.paddingB {
+	padding-bottom: 100px;
+	margin-bottom: -50px;
+}
+
+/* Header Style */
+
+.headerImg {
+	width: 100%;
+	height: 500px;
+	margin-top: -35px;
+	position: relative ;
+	z-index: 1;
+
+	&.index {
+		background: url(../img/header/header.jpg) center center no-repeat;
+	}
+	&.wohnen {
+		height: 300px;
+		background: url(../img/header/wohnen.jpg) center center no-repeat;
+	}
+	&.architektur {
+		height: 300px;
+		background: url(../img/header/architektur.jpg) center center no-repeat;
+	}
+	&.bildhauerei {
+		height: 300px;
+		background: url(../img/header/bildhauerei.jpg) center center no-repeat;
+	}
+	&.unternehmen {
+		background: url(../img/header/unternehmen.jpg) center center no-repeat;
+	}
+}
+
+.header {
+	margin: 0 auto;
+	padding: 2em;
+}
+
+.brownBar {
+	background: @kg-dunkelbraun;
+	width: 30%;
+	height: 90px;
+	position: fixed;
+
+	& .nav {
+		height: 200px;
+	}
+}
+
+.testBar {
+	background: @kg-dunkelbraun;
+width: 365px;
+height: 90px;
+position: absolute;
+z-index: 0;
+}
+
+
+.benefit {
+	padding: 0;
+	margin: 0;
+}
+.benefitBar {
+	background: @kg-braun;
+	width: 33%;
+	height: 113px;
+	position: absolute;
+	z-index: 0;
+}
+
+
+nav {
+	background: @kg-dunkelbraun !important;
+}
+
+.navbar-default {
+	border:none;
+}
+
+.navbar>.container .navbar-brand {
+	margin: 1em 0 0 2em;
+	width: 320px;
+	background: @kg-dunkelbraun url(../img/logo_kettelgerdes_marmor.png) left center no-repeat;
+	position: relative;
+	z-index: 1;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-family: 'Noto Serif', serif;
+	font-size: 1em;
+	font-weight: bold;
+	color:#fff;
+
+	&:hover {
+		color: #fff;
+	}
+}
+
+.dropdown-menu {
+	font-family: 'Noto Serif', serif;
+	font-size: 1em;
+	padding: 0;
+	background: @kg-braun;
+	color: #fff;
+	border-radius: 0;
+	border: none;
+
+
+	&>li>a {
+		padding: 10px;
+		color: #fff;
+	}
+
+	&>li>a:hover  {
+		background:  @kg-rosa;
+		color:#fff;
+	}
+}
+
+section {
+	margin-bottom: 3em;
+}
+
+/* Headlines */
+h1, h2, h3, h4 {
+	font-family: 'Noto Serif', serif;
+}
+
+h2 {
+	text-align: center;
+	color: rgb(233,211,167);
+	font-size: 1.313em; /*21px, 16pt*/
+	font-weight: bold;
+
+	&:after {
+		display: table;
+		content: "";
+		height: 28px;
+		width: 100%;
+		background:  url(../img/divider.png) center center no-repeat;
+		padding: 1em 0;
+	}
+}
+
+h3 {
+	font-size: 1.1em; /*21px, 16pt*/
+}
+
+
+/* Cards */
+.card {
+	&:hover .cardOverlay {
+		height: 360px;
+	}
+}
+
+.cardImg {
+	overflow: hidden;
+	position: relative;
+	z-index:0;
+}
+
+.cardDesc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-transform: uppercase;
+	height: 150px;
+	font-family: 'Noto Serif', serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: @kg-sand;
+
+	 &.wohnen {
+		 background: @kg-dunkelbraun;
+	 }
+
+	 &.architektur {
+		 background: @kg-braun;
+	 }
+
+	 &.bildhauerei {
+		color:  @kg-dunkelgruen;
+		 background: @kg-hellgruen;
+	 }
+}
+
+.cardOverlay {
+	margin: 0 15px;
+	position: absolute;
+	bottom: 150px;
+	left: 0;
+	right: 0;
+	background-color: fade(@kg-braun,75%);
+	overflow: hidden;
+	height: 0;
+	transition: .5s ease;
+}
+
+.cardText {
+	color: white;
+	position: absolute;
+	overflow: hidden;
+	padding: 15px;
+
+	& ul li {
+		color: @kg-sand;
+		font-weight: bold;
+		font-size: 1em;
+	}
+}
+
+/* Sliding Tabs */
+
+.slideRow {
+	padding: 0;
+	margin: 0;
+}
+
+.slideContainer {
+  width:100%;
+  height:auto;
+  overflow:hidden; /* So the sliding bit doesn't stick out. */
+  margin:0 auto;
+	position: relative ;
+z-index: 1;
+}
+.slideContent {
+	width:300%;
+	-webkit-transition:all 1.0s ease-in-out;
+	-moz-transition:all 1.0s ease-in-out;
+	-o-transition:all 1.0s ease-in-out;
+	transition:all 1.0s ease-in-out;
+}
+
+.slidebox {
+	width: 33.3333333333333333333%;
+	float: left;
+
+	& img {
+		width: 100%;
+		height: auto;
+	}
+}
+
+.slideboxButton {
+	width: 11em;
+	height: 2em;
+	text-transform: uppercase;
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+	font-size: 1.050em;
+	color:#fff;
+	border: none;
+
+	&.historie {
+		background: @kg-dunkelbraun;
+	}
+
+	&.team {
+		background: @kg-braun;
+	}
+
+	&.maschinenpark {
+		background: @kg-rosa;
+	}
+
+	&.selected {
+		color: @kg-hellgruen;
+	}
+}
+
+.slideControls {
+	display: flex;
+	justify-content: flex-end;
+	position: relative;
+	z-index: 1;
+}
+
+.slideNautilus {
+	position: relative;
+	z-index: 0;
+	width: 469px;
+	height: 410px;
+	background: url(../img/icons/kettelgerdes_schnecke.png);
+	float: right;
+	margin-top: -300px;
+}
+
+
+/* Accordion */
+#accordion h3 {
+	background: grey;
+	height: 2.5em;
+	padding: 0.65em;
+	text-align: center;
+}
+
+/* Subpages */
+.subH2 {
+	text-align: left;
+	color: @kg-braun;
+	border-bottom: none;
+	padding-bottom: 1.25em;
+	margin-top:4.25em;
+
+	&:after {
+		display: none;
+	}
+}
+
+/* Vorteile Balken mit Plus */
+.vorteileBalken {
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+	background: @kg-braun;
+	color: @kg-sand;
+	padding: 20px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+	&::before {
+		content: url(../img/icons/plus.png);
+		vertical-align: baseline;
+		padding-right: 1em;
+	}
+}
+
+
+.vorteile {
+	padding: 30px 15px;
+}
+
+.vorteile li {
+	width: 33%;
+	float: left;
+	list-style: square;
+
+
+	& span {
+		color: @kg-sand;
+	}
+}
+
+
+
+
+.galleryView {
+
+	& img {
+		height: 400px;
+		width:100%;
+		object-fit: cover;
+	}
+}
+
+.galleryThumb {
+padding:0;
+margin: .25em;
+	& img {
+		height: 75px;
+		width: 75px;
+		object-fit: cover;
+	}
+}
+
+.flexImg {
+	display: flex;
+	align-items: center;
+}
+
+.thumbFlex {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0;
+}
+
+.socialMediaButtons {
+	text-align: center;
+
+	& .buttons {
+
+		& img {
+		padding: 0 15px;
+		}
+	}
+}
+
+.callToAction {
+
+	&.line {
+		padding: 1em 0;
+	}
+
+	&.white {
+		color: #fff;
+		font-family: 'Noto Serif', serif;
+		font-size: 1.050em;
+		margin-right: 0.5em;
+	}
+
+	&.sand {
+		color: @kg-sand;
+	}
+
+	&.button {
+		padding: 1em;
+		background: #adc4a8;
+		border: none;
+		color:#fff;
+	}
+
+}
+
+#anfahrt h3 {
+	margin-top: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.subnav {
+	font-family: 'Noto Serif', serif;
+	font-weight: bold;
+	width: 100%;
+	padding: 3em;
+	text-transform: uppercase;
+	border: none;
+	color: @kg-sand;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	&.wohnen  {
+		background: @kg-dunkelbraun;
+
+	}
+
+	&.architektur  {
+		background: @kg-braun;
+	}
+
+	&.bildhauerei  {
+		background: @kg-hellgruen;
+		color: @kg-dunkelgruen;
+	}
+}
+
+.formButton {
+font-family: 'Noto Serif', serif;
+text-transform: uppercase;
+	padding: 1em;
+	background: @kg-braun;
+	border: none;
+	color:#fff;
+
+	&:hover {
+	background: @kg-dunkelbraun;	}
+}
+
+footer {
+	color: #fff;
+	h3 {
+		color: @kg-braun;
+		font-size: 1.050em;
+
+		&.highlight {
+			color:@kg-sand;
+		}
+	}
+
+	a {
+		color: @kg-sand;
+
+		&:visited {
+			color: @kg-sand;
+		}
+
+		&:hover {
+			color: inherit;
+		}
+	}
+
+	ul {
+		padding: 0;
+	}
+
+	li {
+		list-style: none;
+		color: @kg-sand;
+	}
+}
+
+
+@media screen and (max-width: 25em) {
+
+	.codrops-icon span {
+		display: none;
+	}
+
+}
