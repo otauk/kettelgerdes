@@ -28,15 +28,15 @@
 						</div>
 						<div class="col-md-8">
 							<ul class="vorteile">
-								<li>kratzfest</li>
-								<li>säurefest</li>
-								<li>wasserunempfindlich</li>
-								<li>pflegeleicht</li>
-								<li>hygienisch</li>
-								<li>wärmespeichernd</li>
-								<li>nahezu unverwüstlich</li>
-								<li>hitzebeständig</li>
-								<li>witterungsbeständig</li>
+								<li><span>kratzfest</span></li>
+								<li><span>säurefest</span></li>
+								<li><span>wasserunempfindlich</span></li>
+								<li><span>pflegeleicht</span></li>
+								<li><span>hygienisch</span></li>
+								<li><span>wärmespeichernd</span></li>
+								<li><span>nahezu unverwüstlich</span></li>
+								<li><span>hitzebeständig</span></li>
+								<li><span>witterungsbeständig</span></li>
 							</ul>
 						</div>
 					</div>

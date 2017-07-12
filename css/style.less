@@ -20,13 +20,13 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: @kg-braun;
-	font-size: 15px;
+	font-size: 14px;
 	font-weight: normal;
 	 -webkit-font-smoothing: antialiased;
 }
 
 a {
-	color: #aaa;
+	color: @kg-sand;
 	text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ a:visited,
 a:hover,
 a:active,
  {
-	color: #333;
+	color: @kg-sand;
 	text-decoration: none;
 }
 
@@ -71,7 +71,7 @@ a:active,
 	& .haken {
 		position: relative;
 		width: 600px;
-		height: 50px;
+		height: 60px;
 		background: #fff;
 		margin: 0 auto;
 		z-index: 1;
@@ -151,7 +151,7 @@ z-index: 0;
 .benefitBar {
 	background: @kg-braun;
 	width: 33%;
-	height: 113px;
+	height: 100px;
 	position: absolute;
 	z-index: 0;
 }
@@ -216,7 +216,7 @@ h1, h2, h3, h4 {
 
 h2 {
 	text-align: center;
-	color: rgb(233,211,167);
+	color: @kg-braun;
 	font-size: 1.313em; /*21px, 16pt*/
 	font-weight: bold;
 
@@ -226,12 +226,14 @@ h2 {
 		height: 28px;
 		width: 100%;
 		background:  url(../img/divider.png) center center no-repeat;
-		padding: 1em 0;
+		padding: 1em 0 2em 0;
 	}
 }
 
 h3 {
 	font-size: 1.1em; /*21px, 16pt*/
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-bottom: 1em;
 }
 
 
@@ -403,27 +405,27 @@ z-index: 1;
 	font-weight: bold;
 	background: @kg-braun;
 	color: @kg-sand;
-	padding: 20px;
+	padding: 20px 0 15px 0;
 	display: flex;
-	justify-content: flex-start;
 	align-items: center;
+	height: 100px;
 
 	&::before {
 		content: url(../img/icons/plus.png);
-		vertical-align: baseline;
 		padding-right: 1em;
 	}
 }
 
 
 .vorteile {
-	padding: 30px 15px;
+	padding: 20px 15px;
 }
 
 .vorteile li {
 	width: 33%;
 	float: left;
 	list-style: square;
+	font-weight: bold;
 
 
 	& span {

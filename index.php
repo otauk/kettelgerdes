@@ -11,22 +11,19 @@
 						<h2>Marmor, Granit oder Schiefer</h2>
 						<div class="text-center">
 						<p>
-							Wir begrüßen Sie im Natursteinwerk Kettelgerdes GmbH & Co. KG.
+							Wir begrüßen Sie im Natursteinwerk Kettelgerdes Marmor GmbH & Co. KG.
 						</p>
 						<p>
-						Erleben Sie online die vielfältigen Anwendungsmöglichkeiten von Naturstein, die wir seit 1962 für unsere Kunden anbieten und umsetzen.
+						In den aufgeführten Rubriken zeigen wir Ihnen einige sehenswerte Inspirationen, wie Naturstein verarbeitet werden kann. Egal ob in der Küche, im Badezimmer oder als Fassadenverkleidung, die  Anwendungsmöglichkeiten von Naturstein sind so vielseitig wie das Material selbst. Jeder Stein ist ein Original und besitzt einen einzigartigen Charakter, der richtig ins Szene gesetzt, jedem Wohnbereich eine besondere, exklusive Note verleiht.
 						</p>
 						<p>
-							Jeder Stein ist ein Original und besitzt damit einen einzigartigen Charakter. Mit viel Erfahrung und Know-How in der Auswahl und im Einsatz unserer Natursteine erzielen wir stets ein Optimum in Bezug auf Exklusivität, Langlebigkeit und Schick. So eingesetzt gibt Naturstein jedem Wohnbereich eine besondere, exklusive Note.
+						Vertrauen Sie auf 55 Jahre Erfahrung und Leidenschaft rund um die Verarbeitung und Veredlung von Naturstein.
 						</p>
 						<p>
-							Weil eine Webseite jedoch immer nur erste Ideen liefern kann, besuchen Sie am besten zusätzlich unsere Ausstellung in Delbrück nahe Paderborn. Machen Sie sich vor Ort ein Bild von den über 1.000 lieferbaren Sorten Marmor, Granit, Schiefer, Sandstein und Quarzit und erleben die Besonderheiten des Materials. Unsere Natursteine verschönern viele Bereiche Ihres täglichen Lebens. Sie ermöglichen es, unter Einsatz ihrer vielfältigen Farben und Strukturen, neue Akzente zu setzen und Ihren Räumen und Gebäuden ein großes Ausmaß an Eigenständigkeit zu verleihen.
+						Weil eine Webseite jedoch immer nur erste Ideen liefern kann, besuchen Sie am besten zusätzlich unsere Ausstellung in Delbrück nahe Paderborn. Machen Sie sich vor Ort ein Bild von den über 1.000 lieferbaren Sorten Marmor, Granit, Schiefer, Sandstein und Quarzit und erleben die Besonderheiten des Materials. Seine vielfältigen Farben und Strukturen setzen neue Akzente in Ihren Räumen und Gebäuden und verleihen ihnen ein großes Ausmaß an Eigenständigkeit.
 						</p>
 						<p>
-							In den aufgeführten Rubriken zeigen wir Ihnen einige sehenswerte Inspirationen, wie Naturstein verarbeitet werden kann.
-						</p>
-						<p>
-							Lassen Sie sich danach ausführlich und kompetent beraten und entdecken Sie die Möglichkeiten von Naturstein im Natursteinwerk Kettelgerdes. Bei weiteren Fragen und für noch mehr Informationen freuen wir uns jederzeit auf Sie und Ihr Projekt!
+						Bei weiteren Fragen und für noch mehr Informationen freuen wir uns jederzeit auf Sie und Ihr Projekt!
 						</p>
 					</div>
 					</div>
@@ -41,9 +38,9 @@
 								<div class="cardImg">
 									<img src="./img/einsatzgebiete/wohnen.jpg" />
 								</div>
-								<div class="cardDesc wohnen">
+								<a class="cardDesc wohnen" href="wohnen.php">
 									Wohnen
-								</div>
+								</a>
 								<div  class="cardOverlay">
 									<div class="cardText">
 										<p>
@@ -69,9 +66,10 @@
 									<div class="cardImg">
 										<img src="./img/einsatzgebiete/architektur.jpg" />
 									</div>
-									<div class="cardDesc architektur">
+									<a class="cardDesc architektur" href="architektur.php">
 										Architektur
-									</div>
+
+									</a>
 									<div  class="cardOverlay">
 										<div class="cardText">
 										<p>
@@ -93,9 +91,9 @@
 									<div class="cardImg">
 										<img src="./img/einsatzgebiete/bildhauerei.jpg" />
 									</div>
-									<div class="cardDesc bildhauerei">
+									<a class="cardDesc bildhauerei" href="bildhauerei.php">
 										Bildhauerei
-									</div>
+									</a>
 									<div  class="cardOverlay">
 										<div class="cardText">
 										<p>
@@ -127,16 +125,16 @@
 									<div class="col-md-8">
 										<h2>Historie</h2>
 										<p>
-Seit über 55 Jahren ist das Natursteinwerk Kettelgerdes auf die Verarbeitung von Naturstein spezialisiert. Als Ein-Mann-Betrieb 1962 von Hubert Kettelgerdes gegründet wuchs das Unternehmen seither kontinuierlich.
-</p>
-<p>
-1982 wurde im Gewerbegebiet West ein neues Betriebsgebäude mit Verwaltungstrakt errichtet. Der gesamte Betrieb wurde vollständig zum heutigen Unternehmenssitz im Schwalbenweg 15 verlagert und eine Betriebsfläche von 8000 qm errichtet.
-</p>
-<p>
-Im Jahr 2001 expandierte das Unternehmen weiter. Es wurden die neuen Ausstellungsräume in der heutigen Form und Größe fertiggestellt und eröffnet. Auf mehr als 2.000 qm werden nun Natursteine aus aller Welt gelagert, be- und verarbeitet.
-</p>
-<p>
-Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes geführt. Die zweite Generation setzt die Firmengeschichte seither mit 15 Mitarbeitern erfolgreich fort.
+										Seit über 55 Jahren ist das Natursteinwerk Kettelgerdes auf die Verarbeitung von Naturstein spezialisiert. Als Ein-Mann-Betrieb 1962 von Hubert Kettelgerdes gegründet wuchs das Unternehmen seither kontinuierlich.
+										</p>
+										<p>
+										1982 wurde im Gewerbegebiet West ein neues Betriebsgebäude mit Verwaltungstrakt errichtet. Der gesamte Betrieb wurde vollständig zum heutigen Unternehmenssitz im Schwalbenweg 15 verlagert und eine Betriebsfläche von 8000 qm errichtet.
+										</p>
+										<p>
+										Im Jahr 2001 expandierte das Unternehmen weiter. Es wurden die neuen Ausstellungsräume in der heutigen Form und Größe fertiggestellt und eröffnet. Auf mehr als 2.000 qm werden nun Natursteine aus aller Welt gelagert, be- und verarbeitet.
+										</p>
+										<p>
+										Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes geführt. Die zweite Generation setzt die Firmengeschichte seither mit 15 Mitarbeitern erfolgreich fort.
 										</p>
 									</div>
 								</div>
@@ -227,9 +225,13 @@ Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes ge
 					<div class="socialMediaButtons">
 						<h3>Für mehr Bilder & Videos folgen Sie uns einfach auf</h3>
 						<div class="buttons">
+							<a href="https://www.facebook.com/KettelgerdesMarmor/" target="_blank">
 						<img src="./img/icons/facebook.png" alt="Facebook">
-						<img src="./img/icons/instagram.png" alt="Instagram">
-						<img src="./img/icons/pinterest.png" alt="Pinterest">
+						</a>
+						<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
+							<img src="./img/icons/pinterest.png" alt="Pinterest">
+						</a>
+
 					</div>
 					</div>
 				</section>
@@ -276,21 +278,15 @@ Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes ge
               </dt>
               <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
 								<p>
-									Hier können Sie unsere Unternehmensbroschüre herunterladen:
-								</p>
-								<p>
+									Hier können Sie unsere Unternehmensbroschüre herunterladen:<br>
 									<a href="#">Kettelgerdes - Meisterwerke aus Naturstein (PDF)</a>
 								</p>
 								<p>
-									Hier können Sie unsere Pflegehinweise herunterladen:
-								</p>
-								<p>
+									Hier können Sie unsere Pflegehinweise herunterladen:<br>
 									<a href="#">Pflegehinweise (PDF)</a>
 								</p>
 								<p>
-									Hier finden Sie unsere allgemeinen Geschäftsbedingungen:
-								</p>
-								<p>
+									Hier finden Sie unsere allgemeinen Geschäftsbedingungen:<br>
 									<a href="#">AGB Kettelgerdes (PDF)</a>
 								</p>
               </dd>
@@ -301,7 +297,16 @@ Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes ge
 							</dt>
 							<dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
 								<p>
-									Was soll hier rein?
+									Ob Traumbad, Küche oder Wohnzimmer aus Naturstein – mit dem kostenlosen Online Planer können Sie Ihre Wunschräume bequem von zu Hause aus gestalten. Das 3D - Tool beinhaltet zahlreiche Features, mit denen Sie in wenigen Mausklicks ihr Projekt eigenständig planen können:
+								</p>
+								<p>
+									Testen Sie es aus!
+								</p>
+								<p>
+									<a href="https://www.palettehome.de/DE/4business/Rossittis" target="_blank">zum Raumplaner</a>
+								</p>
+
+
 								</p>
 							</dd>
             </dl>
@@ -309,23 +314,19 @@ Seit 2004 wird das Unternehmen von den Töchtern Diana und Heike Kettelgerdes ge
         </div>				</section>
 				<section id="anfahrt">
 					<div class="row sandstone paddingB">
-						<h2>Anfahrt</h2>
 						<div class="container">
-							<div class="row">
+								<h2>Anfahrt</h2>
 								<p class="text-center">
-Sie finden uns in Delbrück im Gewerbegebiet West.
-</p>
-<p class="text-center">
-Eine Anfahrtsbeschreibung können Sie <a href="#">hier</a> herunterladen oder benutzen Sie den folgenden Routenplaner: 
+									Auf über 2.000 qm präsentieren, verarbeiten und lagern wir hochwertige Natursteine aus aller Welt und haben stets über 1000 Sorten Naturstein auf Lager.
+									Erleben Sie die neue Natürlichkeit bei einem Besuch unserer Ausstellung!
 								</p>
-							</div>
-							<div class="col-md-8" style="background-color:grey; height: 300px;">
+							<div class="col-md-8">
 								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.526397624!2d8.549341316288954!3d51.75998330002386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba346713c1eba1%3A0x9f048bcb01c708de!2sKettelgerdes+Marmor+GmbH+%26+Co.+KG!5e0!3m2!1sde!2sde!4v1499787694998" width="760" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 							</div>
 							<div class="col-md-4">
 								<div class="col-md-2">
 									<div class="icon">
-										<img src="./img/icons/telefon.png" alt="">
+										<img src="./img/icons/uhr.png" alt="">
 									</div>
 								</div>
 								<div class="col-md-10">
@@ -338,7 +339,7 @@ Eine Anfahrtsbeschreibung können Sie <a href="#">hier</a> herunterladen oder be
 
 								<div class="col-md-2">
 									<div class="icon">
-										<img src="./img/icons/uhr.png" alt="">
+										<img src="./img/icons/telefon.png" alt="">
 									</div>
 								</div>
 								<div class="col-md-10">

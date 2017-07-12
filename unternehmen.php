@@ -15,7 +15,7 @@
 						<p class="text-center">
 Auf über 2.000 qm präsentieren, verarbeiten und lagern wir hochwertige Natursteine aus aller Welt.
 Seit über 55 Jahren sind wir ein inhabergeführter Steinverarbeitungsbetrieb am Standort Delbrück. Das in mittlerweile zwei Generationen gewonnene Wissen über Marmor und Granit macht es möglich, dass wir Ihnen hoch qualifizierte und kreative Lösungen bieten können wie kein anderer.
-Unsere Kunden und Partner vertrauen auf unseren großen Erfahrungsschatz bei der Auswahl und Anwendung der Steine, besonders schätzen sie unsere sorgsame und exakte Verarbeitung.
+Unsere Kunden und Partner vertrauen auf unseren großen Erfahrungsschatz bei der Auswahl und Anwendung der Steine, besonders schätzen sie unsere sorgsame und präzise Verarbeitung.
 Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Material einher. Erleben Sie unsere Begeisterung und unser Können in der Umsetzung für Ihr Projekt.
 						</p>
 					</div>
@@ -79,23 +79,22 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 					</div>
 				</section>
 				<section id="vorteile">
+					<div class="benefitBar"></div>
 					<div class="container">
-						<div class="row">
+						<div class="row benefit">
 							<div class="col-md-4 vorteileBalken">
 								Unsere Leistungen
 							</div>
 							<div class="col-md-8">
 								<ul class="vorteile">
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-									<li><span>test</span></li>
-
-
+									<li><span>Natursteinböden</span></li>
+									<li><span>Fensterbänke</span></li>
+									<li><span>Treppenanlagen</span></li>
+									<li><span>Küchenarbeitsplatten </span></li>
+									<li><span>Waschtischplatten</span></li>
+									<li><span>Duschtassen </span></li>
+									<li><span>Terrassenbelägeest</span></li>
+									<li><span>Reparaturdienst</span></li>
 								</ul>
 							</div>
 						</div>

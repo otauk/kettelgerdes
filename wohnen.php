@@ -28,15 +28,15 @@
 						</div>
 						<div class="col-md-8">
 							<ul class="vorteile">
-								<li>kratzfest</li>
-								<li>säurefest</li>
-								<li>wasserunempfindlich</li>
-								<li>pflegeleicht</li>
-								<li>hygienisch</li>
-								<li>wärmespeichernd</li>
-								<li>nahezu unverwüstlich</li>
-								<li>hitzebeständig</li>
-								<li>witterungsbeständig</li>
+								<li><span>kratzfest</span></li>
+								<li><span>säurefest</span></li>
+								<li><span>wasserunempfindlich</span></li>
+								<li><span>pflegeleicht</span></li>
+								<li><span>hygienisch</span></li>
+								<li><span>wärmespeichernd</span></li>
+								<li><span>nahezu unverwüstlich</span></li>
+								<li><span>hitzebeständig</span></li>
+								<li><span>witterungsbeständig</span></li>
 							</ul>
 						</div>
 					</div>
@@ -246,7 +246,8 @@
 						<div class="col-md-6">
 							<h2 class="subH2">Die Treppe</h2>
 								<p>
-									Treppen müssen zu allererst sicher und beständig sein. Durch die vielen Farben und Strukturen kombiniert mit verschiedenen Oberflächenbehandlungen wie geflammt, gebürstet, sandgestrahlt, geschliffen oder poliert werden die Möglichkeiten einer Treppengestaltung nahezu unbegrenzt. Ein Geländer aus Naturstein gibt Ihrem Treppenaufgang einen Hauch von Luxus. Gern präsentieren wir Ihnen in unserer Ausstellung vielfältige Anwendungsmöglichkeiten.
+Treppen müssen zu allererst sicher und beständig sein. Durch die vielen Farben und Strukturen kombiniert mit verschiedenen Oberflächenbehandlungen wie geflammt, gebürstet, sandgestrahlt, geschliffen oder poliert werden die Möglichkeiten einer Treppengestaltung nahezu unbegrenzt. Ein Geländer aus Naturstein gibt Ihrem Treppenaufgang einen Hauch von Luxus. Gern präsentieren wir Ihnen in unserer Ausstellung vielfältige Anwendungsmöglichkeiten.
+Auch im Außenbereich bietet sich Naturstein durch seine Langlebigkeit an. Treppen, Terrassen, sowie Eingangsbereiche aus Marmor oder Granit sind der perfekte, pflegeleichte Übergang zwischen Haus und Garten.
 								</p>
 						</div>
 						<div class="col-md-6 flexImg">
@@ -390,48 +391,6 @@
 						</div>
 					</div>
 				</section>
-				<section id="aussenbereich">
-					<div class="row">
-						<div class="container">
-						<div class="col-md-6">
-							<h2 class="subH2">Der Außenbereich</h2>
-								<p>
-									Gerade im Außenbereich bietet sich Naturstein durch seine Langlebigkeit an. Terassen, Eingangsbereiche sowie Treppen aus Marmor oder Granit sind der perfekte, pflegeleichte Übergang zwischen Haus und Garten.
-								</p>
-						</div>
-						<div class="col-md-6 flexImg">
-							<div class="col-md-3 thumbFlex">
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-							</div>
-							<div class="col-md-3 thumbFlex">
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-								<div class="galleryThumb">
-								</div>
-							</div>
-							<div class="col-md-6">
-								<div class="galleryView">
-								</div>
-							</div>
-					</div>
-						</div>
-					</div>
-				</section>
 				<section id="callToAction">
 					<div class="row earth">
 						<div class="container">
@@ -453,7 +412,7 @@
 				<section id="subnav">
 					<div class="container">
 					<div class="col-md-4">
-						<a class="subnav wohnen" href="#">
+						<a class="subnav wohnen">
 						Wohnen
 					</a>
 					</div>
