@@ -62,7 +62,7 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 					</div>
 						<div class="col-md-6">
 							<h2 class="subH2">Maschinenpark</h2>
-									<ul>
+									<ul class="maschinenpark">
 										<li>5-Achs-CNC-Bearbeitungszentrum CMS Brembana Maxima</li>
 										<li>Diamantseilsäge Baumunk LS1-VA-125</li>
 										<li>Diamantseilsäge Arbes DSS 208</li>

@@ -120,7 +120,7 @@
 								<div class="slideContent">
 								<div class="slidebox">
 									<div class="col-md-4">
-										<img src="img/unternehmen/historie_platzhalter.jpg">
+										<img src="img/unternehmen/historie_firmengelaende.jpg">
 									</div>
 									<div class="col-md-8">
 										<h2>Historie</h2>
@@ -140,7 +140,7 @@
 								</div>
 								<div class="slidebox">
 									<div class="col-md-8">
-										<img src="./img/unternehmen/team_kettelgerdes.jpg">
+										<img src="img/unternehmen/team_kettelgerdes.jpg">
 									</div>
 									<div class="col-md-4">
 										<h2> Team</h2>
@@ -317,7 +317,7 @@
 						<div class="container">
 								<h2>Anfahrt</h2>
 								<p class="text-center">
-									Auf über 2.000 qm präsentieren, verarbeiten und lagern wir hochwertige Natursteine aus aller Welt und haben stets über 1000 Sorten Naturstein auf Lager.
+									Auf über 2.000 qm präsentieren, verarbeiten und lagern wir hochwertige Natursteine aus aller Welt und haben stets über 1000 Sorten Naturstein auf Lager.<br>
 									Erleben Sie die neue Natürlichkeit bei einem Besuch unserer Ausstellung!
 								</p>
 							<div class="col-md-8">
@@ -345,7 +345,8 @@
 								<div class="col-md-10">
 									<h3>Kettelgerdes Marmor GmbH & Co. KG</h3>
 									<p>
-										Schwalbenweg 1533129 Delbrück<br />
+										Schwalbenweg 15<br>
+										33129 Delbrück<br />
 										Tel: 05250|9377-0<br />
 										Fax: 05250|9377-10<br />
 										<a href="mailto:info@kettelgerdes.de">info@kettelgerdes.de</a><br />

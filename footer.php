@@ -57,9 +57,12 @@
 							Sa      	: 9.00 - 12.00 Uhr
 						</p>
 						<h3 class="highlight">Social Media</h3>
-							<img src="./img/icons/facebook.png" alt="Facebook">
-							<img src="./img/icons/instagram.png" alt="Instagram">
-							<img src="./img/icons/pinterest.png" alt="Pinterest">
+						<a href="https://www.facebook.com/KettelgerdesMarmor/" target="_blank">
+					<img src="./img/icons/facebook.png" alt="Facebook">
+					</a>
+					<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
+						<img src="./img/icons/pinterest.png" alt="Pinterest">
+					</a>
 						</p>
 					</div>
 				</div>
@@ -72,6 +75,7 @@
 		<script src="js/AnimOnScroll.js"></script>
 		<script src="js/accordion.js"></script>
 		<script src="js/lightbox.min.js"></script>
+		<script src="js/ofi.min.js"></script>
 		<script>
 			new AnimOnScroll( document.getElementById( 'grid' ), {
 				minDuration : 0.4,
@@ -89,6 +93,10 @@ $(document).ready(function() {
 
 $(function(){$('a[href*="#"]:not([href="#"])').click(function(){if(location.pathname.replace(/^\//,'')==this.pathname.replace(/^\//,'')&&location.hostname==this.hostname){var target=$(this.hash);target=target.length?target:$('[name='+this.hash.slice(1)+']');if(target.length){$('html, body').animate({scrollTop:target.offset().top-50},1000)
 return false;}}});});
+
+objectFitImages();
+
 		</script>
+
 	</body>
 </html>

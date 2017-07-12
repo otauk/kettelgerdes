@@ -251,9 +251,11 @@
 								</p>
 							</div>
 							<div class="col-md-2">
+								<a href="index.php#anfahrt">
 								<button class="callToAction button">
 									Anfahrt
 								</button>
+							</a>
 							</div>
 						</div>
 					</div>
