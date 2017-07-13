@@ -1,4 +1,5 @@
-<?php include("header.php");?>
+<?php include("header.php");
+?>
 <div class="container">
 				<div class="headerImg index"></div>
 </div>
@@ -371,40 +372,43 @@
 								Möchten Sie mehr über unsere Produkte wissen oder haben eine konkrete Anfrage,<br /> benutzen Sie einfach folgendes Formular zur Anfrage und Sie hören umgehend von uns.
 							</p>
 						</div>
+						<form name="contact" method="post" action="mailing.php">
 						<div class="col-md-4">
 							<div class="form-group">
-								<input type="text" class="form-control" id="firma" placeholder="">
+								<input type="text" class="form-control" id="firma" name="firma" placeholder="">
 								<label for="firma">Firma</label>
 						  	</div>
 						  <div class="form-group">
-								<input type="text" class="form-control" id="name" placeholder="">
+								<input type="text" class="form-control" id="name" name="name" placeholder="" required>
 								<label for="name">Name</label>
 							</div>
 							<div class="form-group">
-								<input type="text" class="form-control" id="email" placeholder="">
+								<input type="email" class="form-control" id="email" name="email" placeholder="" required>
 								<label for="name">E-Mail</label>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="form-group">
-								<input type="text" class="form-control" id="telefon" placeholder="">
+								<input type="number" class="form-control" id="telefon" name="telefon" placeholder="">
 								<label for="firma">Telefon</label>
 						  	</div>
 							<div class="form-group">
-								<input type="text" class="form-control" id="anschrift" placeholder="">
+								<input type="text" class="form-control" id="anschrift" name="anschrift" placeholder="">
 								<label for="name">Anschrift</label>
 							</div>
 							<div class="form-group">
-								<input type="text" class="form-control" id="betreff" placeholder="">
+								<input type="text" class="form-control" id="betreff" name="betreff" placeholder="" required>
 								<label for="name">Betreff</label>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="form-group">
-								<textarea class="form-control" rows="10"></textarea>
+								<textarea class="form-control" rows="10" id="nachricht" name="nachricht"></textarea>
+								<label for="nachricht">Nachricht</label>
 							</div>
 							<button type="submit" class="formButton">Senden</button>
 						</div>
+						</form>
 					</div>
 				</section>
 			</main>
