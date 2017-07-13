@@ -18,6 +18,81 @@
 					</div>
 				</div>
 				</section>
+				<section id="grabmale">
+					<div class="row sandstone">
+						<div class="container">
+						<div class="col-md-6 flexImg">
+							<div class="col-md-8 ">
+								<div class="galleryView">
+									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" alt="">
+									</a>
+								</div>
+							</div>
+							<div class="col-md-2 thumbFlex">
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/familiengrab_rund.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/familiengrab_rund.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/grabstein_baum.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/grabstein_baum.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/doppelgtrabstein_see.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/doppelgrabstein_see.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/grabstein_schmetterling.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/grabstein_schmetterling.jpg" alt="">
+									</a>
+								</div>
+							</div>
+							<div class="col-md-2 thumbFlex">
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/herz_grabstein.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/herz_grabstein.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/kettelgerdes_grabsteine_delbrueck.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/kettelgerdes_grabsteine_delbrueck.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/mustergrabsteine_kettelgerdes.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/mustergrabsteine_kettelgerdes.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/steinmetz_handarbeit.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/steinmetz_handarbeit.jpg" alt="">
+									</a>
+								</div>
+								<div class="galleryThumb">
+									<a href="img/bildhauerei/grabmale/minimalistischer_grabstein.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/minimalistischer_grabstein.jpg" alt="">
+									</a>
+								</div>
+							</div>
+					</div>
+						<div class="col-md-6">
+							<h2 class="subH2">Grabmale</h2>
+								<p>
+									Die letzte Ruhestätte ist ein Ort der Ehrerbietung gegenüber dem Verstorbenen. Ein individuelles Grabmal aus Naturstein schafft eine Stätte des würdevollen Gedenkens, die Generationen überdauert. Mit einem Grabmal schaffen Sie die Möglichkeit in ganz persönlicher Weise an den Verstorbenen zu erinnern und ihn zu würdigen. Die Einzigartigkeit des Verstorbenen wird in der Gestaltung eines Grabmals sichtbar. Lassen Sie sich von uns persönlich und diskret beraten.
+								</p>
+						</div>
+						</div>
+					</div>
+								</section>
 				<section id="vorteile">
 					<div class="benefitBar">
 
@@ -25,25 +100,24 @@
 					<div class="container">
 					<div class="row benefit">
 						<div class="col-md-4 vorteileBalken">
-							Vorteile von Naturstein
+							Unser Service
 						</div>
 						<div class="col-md-8">
 							<ul class="vorteile">
-								<li><span>kratzfest</span></li>
-								<li><span>säurefest</span></li>
-								<li><span>wasserunempfindlich</span></li>
-								<li><span>pflegeleicht</span></li>
-								<li><span>hygienisch</span></li>
-								<li><span>wärmespeichernd</span></li>
-								<li><span>nahezu unverwüstlich</span></li>
-								<li><span>hitzebeständig</span></li>
-								<li><span>witterungsbeständig</span></li>
+								<li><span>Doppelgräber</span></li>
+								<li><span>Einzelgräber</span></li>
+								<li><span>Urnengräber</span></li>
+								<li><span>Beratung</span></li>
+								<li><span>Gestaltung</span></li>
+								<li><span>Betreuung</span></li>
+								<li><span>Aufarbeitung</span></li>
+								<li><span>Nachbeschriftung</span></li>
 							</ul>
 						</div>
 					</div>
 					</div>
 				</section>
-				<section id="kueche">
+				<section id="skulpturen">
 					<div class="row sandstone">
 						<div class="container">
 						<div class="col-md-6 flexImg">
@@ -119,7 +193,7 @@
 						</div>
 					</div>
 				</section>
-				<section id="bad">
+				<section id="brunnen">
 					<div class="row">
 						<div class="container">
 						<div class="col-md-6">
@@ -167,81 +241,7 @@
 						</div>
 					</div>
 				</section>
-				<section id="kamin">
-					<div class="row sandstone">
-						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-8 ">
-								<div class="galleryView">
-									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" alt="">
-									</a>
-								</div>
-							</div>
-							<div class="col-md-2 thumbFlex">
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/familiengrab_rund.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/familiengrab_rund.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/grabstein_baum.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/grabstein_baum.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/grabstein_bronze.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/grabstein_bronze.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/grabsteininschrift.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/grabsteininschrift.jpg" alt="">
-									</a>
-								</div>
-							</div>
-							<div class="col-md-2 thumbFlex">
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/grabsten_ausstellung_delbreuck.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/grabsten_ausstellung_delbreuck.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/kettelgerdes_grabsteine_delbrueck.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/kettelgerdes_grabsteine_delbrueck.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/mustergrabsteine_kettelgerdes.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/mustergrabsteine_kettelgerdes.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/steinmetz_handarbeit.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/steinmetz_handarbeit.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/vorarbeit_steinmetz.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/vorarbeit_steinmetz.jpg" alt="">
-									</a>
-								</div>
-							</div>
-					</div>
-						<div class="col-md-6">
-							<h2 class="subH2">Grabmale</h2>
-								<p>
-									Die letzte Ruhestätte ist ein Ort der Ehrerbietung gegenüber dem Verstorbenen. Ein individuelles Grabmal aus Naturstein schafft eine Stätte des würdevollen Gedenkens, die Generationen überdauert. Mit einem Grabmal schaffen Sie die Möglichkeit in ganz persönlicher Weise an den Verstorbenen zu erinnern und ihn zu würdigen. Die Einzigartigkeit des Verstorbenen wird in der Gestaltung eines Grabmals sichtbar. Lassen Sie sich von uns persönlich und diskret beraten.
-								</p>
-						</div>
-						</div>
-					</div>
-								</section>
+
 				<section id="callToAction">
 					<div class="row earth">
 						<div class="container">

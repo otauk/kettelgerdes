@@ -204,7 +204,7 @@
 							<li><img src="img/galerie/fassade/wandschmuck_onyx.JPG"></li>
 							<li><img src="img/galerie/grabmale/brinzearbeit_grabmal.JPG"></li>
 							<li><img src="img/galerie/grabmale/detail_grabstein.jpg"></li>
-							<li><img src="img/galerie/grabmale/partnergrabstein.jpg"></li>
+							<li><img src="img/galerie/grabmale/lgs_mustergrab.jpg"></li>
 							<li><img src="img/galerie/grabmale/skulptur_aus_stein.jpg"></li>
 							<li><img src="img/galerie/grabmale/steinmetz_handwerk.jpg"></li>
 							<li><img src="img/galerie/grabmale/zeichen_der_erinnerung.jpg"></li>
@@ -230,6 +230,9 @@
 						</a>
 						<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
 							<img src="./img/icons/pinterest.png" alt="Pinterest">
+						</a>
+						<a href="https://www.instagram.com/kettelgerdes_marmor/" target="_blank">
+							<img src="./img/icons/instagram.png" alt="Instagram">
 						</a>
 
 					</div>

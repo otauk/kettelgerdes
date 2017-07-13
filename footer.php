@@ -63,6 +63,9 @@
 					<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
 						<img src="./img/icons/pinterest.png" alt="Pinterest">
 					</a>
+					<a href="https://www.instagram.com/kettelgerdes_marmor/" target="_blank">
+						<img src="./img/icons/instagram.png" alt="Instagram">
+					</a>
 						</p>
 					</div>
 				</div>

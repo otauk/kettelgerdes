@@ -5,7 +5,7 @@
 
 .accordion dl,
 .accordion-list {
-  border: 1px solid #ddd;
+  border: none;
 }
 
 .accordion dd,
