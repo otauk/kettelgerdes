@@ -323,16 +323,16 @@
 									Auf über 2.000 qm präsentieren, verarbeiten und lagern wir hochwertige Natursteine aus aller Welt und haben stets über 1000 Sorten Naturstein auf Lager.<br>
 									Erleben Sie die neue Natürlichkeit bei einem Besuch unserer Ausstellung!
 								</p>
-							<div class="col-md-8">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.526397624!2d8.549341316288954!3d51.75998330002386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba346713c1eba1%3A0x9f048bcb01c708de!2sKettelgerdes+Marmor+GmbH+%26+Co.+KG!5e0!3m2!1sde!2sde!4v1499787694998" width="760" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+							<div class="col-md-8 googleMap">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.526397624!2d8.549341316288954!3d51.75998330002386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba346713c1eba1%3A0x9f048bcb01c708de!2sKettelgerdes+Marmor+GmbH+%26+Co.+KG!5e0!3m2!1sde!2sde!4v1499787694998" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 							</div>
 							<div class="col-md-4">
-								<div class="col-md-2">
+								<div class="col-md-2 col-xs-2">
 									<div class="icon">
 										<img src="./img/icons/uhr.png" alt="">
 									</div>
 								</div>
-								<div class="col-md-10">
+								<div class="col-md-10 col-xs-10">
 									<h3>Öffnungszeiten</h3>
 									<p>
 										Mo-Fr	: 8.00 - 17.00 Uhr<br />
@@ -340,12 +340,12 @@
 									</p>
 								</div>
 
-								<div class="col-md-2">
+								<div class="col-md-2 col-xs-2">
 									<div class="icon">
 										<img src="./img/icons/telefon.png" alt="">
 									</div>
 								</div>
-								<div class="col-md-10">
+								<div class="col-md-10 col-xs-10">
 									<h3>Kettelgerdes Marmor GmbH & Co. KG</h3>
 									<p>
 										Schwalbenweg 15<br>

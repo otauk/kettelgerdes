@@ -1,7 +1,7 @@
 			<footer>
 				<div class="row darkearth benefit">
 				<div class="container">
-					<div class="col-md-2">
+					<div class="col-md-2 hidden-xs">
 						<h3>Navigation</h3>
 						<ul>
 							<li><a href="#home">Home</a></li>
@@ -12,7 +12,7 @@
 							<li><a href="impressum.php">Impressum</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-2 hidden-xs">
 						<h3>Wohnen</h3>
 						<ul>
 							<li><a href="wohnen.php#bad">Bad</a></li>
@@ -23,7 +23,7 @@
 							<li><a href="wohnen.php#aussenbereich">Fensterbänke</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-2 hidden-xs">
 						<h3>Architektur</h3>
 						<ul>
 							<li><a href="architektur.php#terrassen">Terassen</a></li>
@@ -32,7 +32,7 @@
 							<li><a href="architektur.php#fassaden">Fassaden</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-2 hidden-xs">
 						<h3>Bildhauerei</h3>
 						<ul>
 							<li><a href="bildhauerei.php#skulpturen">Skulpturen</a></li>
@@ -40,7 +40,7 @@
 							<li><a href="bildhauerei.php#grabmale">Grabmale</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-2 col-xs-6">
 						<h3 class="highlight">Kettelgerdes Marmor <br />GmbH & Co. KG</h3>
 						<p>
 							Schwalbenweg 15<br />
@@ -50,7 +50,7 @@
 							<a href="mailto:info@kettelgerdes.de">info@kettelgerdes.de</a><br />
 						</p>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-2 col-xs-6">
 						<h3 class="highlight">Öffnungszeiten</h3>
 						<p>
 							Mo-Fr	: 8.00 - 17.00 Uhr<br />
@@ -97,7 +97,7 @@ $(document).ready(function() {
 $(function(){$('a[href*="#"]:not([href="#"])').click(function(){if(location.pathname.replace(/^\//,'')==this.pathname.replace(/^\//,'')&&location.hostname==this.hostname){var target=$(this.hash);target=target.length?target:$('[name='+this.hash.slice(1)+']');if(target.length){$('html, body').animate({scrollTop:target.offset().top-50},1000)
 return false;}}});});
 
-objectFitImages();
+$(function () { objectFitImages() });
 
 		</script>
 

@@ -22,10 +22,10 @@
 					<div class="row sandstone">
 						<div class="container">
 						<div class="col-md-6 flexImg">
-							<div class="col-md-8 ">
+							<div class="col-md-8 col-xs-12">
 								<div class="galleryView">
-									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" data-lightbox="grabmale">
-										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer.jpg" alt="">
+									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" data-lightbox="grabmale">
+										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" alt="">
 									</a>
 								</div>
 							</div>
@@ -120,43 +120,43 @@
 				<section id="skulpturen">
 					<div class="row sandstone">
 						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-8">
-								<div class="galleryView">
-									<a href="img/bildhauerei/skulpturen/baccus.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/baccus.jpg" alt="">
-									</a>
+							<div class="col-md-6 flexImg">
+								<div class="col-md-8 col-xs-12">
+									<div class="galleryView">
+										<a href="img/bildhauerei/skulpturen/baccus.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/baccus.jpg" alt="">
+										</a>
 
+									</div>
 								</div>
-							</div>
-							<div class="col-md-2 thumbFlex">
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/echte_handarbeit.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/echte_handarbeit.jpg" alt="">
-									</a>
+								<div class="col-md-2 thumbFlex">
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/echte_handarbeit.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/echte_handarbeit.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/figur_naturstein.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/figur_naturstein.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/fisch_naturtsein.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/fisch_naturtsein.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/frosch_sandstein.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/frosch_sandstein.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/handarbeit_skulptur.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/handarbeit_skulptur.jpg" alt="">
+										</a>
+									</div>
 								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/figur_naturstein.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/figur_naturstein.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/fisch_naturtsein.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/fisch_naturtsein.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/frosch_sandstein.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/frosch_sandstein.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/handarbeit_skulptur.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/handarbeit_skulptur.jpg" alt="">
-									</a>
-								</div>
-							</div>
-							<div class="col-md-2 thumbFlex">
+								<div class="col-md-2 thumbFlex">
 								<div class="galleryThumb">
 									<a href="img/bildhauerei/skulpturen/kopf_figur.jpg" data-lightbox="skulpturen">
 										<img src="img/bildhauerei/skulpturen/kopf_figur.jpg" alt="">
@@ -183,8 +183,8 @@
 									</a>
 								</div>
 							</div>
-					</div>
-						<div class="col-md-6 ">
+							</div>
+							<div class="col-md-6 ">
 							<h2 class="subH2">Skulpturen</h2>
 								<p>
 									Eine Bereicherung für jede Außenanlage sind spezielle angefertigte Steinskulpturen. Hier zeigen wir Ihnen unser gesamtes handwerkliches Können und gehen auch sehr gern auf Ihre Wünsche sowie Vorstellungen ein.
@@ -230,7 +230,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-md-10">
+							<div class="col-md-10 col-xs-12">
 								<div class="galleryView">
 									<a href="img/bildhauerei/brunnen/20.7.2005-005_web.jpg" data-lightbox="brunnen">
 										<img src="img/bildhauerei/brunnen/20.7.2005-005_web.jpg" alt="">
