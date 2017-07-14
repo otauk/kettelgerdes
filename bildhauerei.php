@@ -21,15 +21,15 @@
 				<section id="grabmale">
 					<div class="row sandstone">
 						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-8 col-xs-12">
-								<div class="galleryView">
+						<div class="col-md-6 col-xs-12 flexImg">
+							<div class="col-md-8 hidden-xs">
+								<div class="galleryView hidden-xs">
 									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" data-lightbox="grabmale">
 										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" alt="">
 									</a>
 								</div>
 							</div>
-							<div class="col-md-2 thumbFlex">
+							<div class="col-md-2 col-xs-6 thumbFlex">
 								<div class="galleryThumb">
 									<a href="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" data-lightbox="grabmale">
 										<img src="img/bildhauerei/grabmale/doppelgrab_naturstein.jpg" alt="">
@@ -56,7 +56,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-md-2 thumbFlex">
+							<div class="col-md-2 col-xs-6 thumbFlex">
 								<div class="galleryThumb">
 									<a href="img/bildhauerei/grabmale/herz_grabstein.jpg" data-lightbox="grabmale">
 										<img src="img/bildhauerei/grabmale/herz_grabstein.jpg" alt="">

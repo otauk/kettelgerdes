@@ -149,7 +149,7 @@
 										Unser Unternehmen ist seit seiner Gründung im Jahr 1962 inhabergeführt. In zweiter Generation führt heute Heike Kettelgerdes gemeinsam mit ihrer Schwester Diana den Betrieb des Vaters weiter. Unter der Führung der beiden Schwestern wurde technisches Know-how perfekt mit kaufmännischem Verständnis gepaart, um unseren Kunden stets hervorragende Produkte zu einem vernünftigen Preis bieten zu können.
 									</p>
 									<p>
-										Im Team von Kettelgerdes Marmor arbeiten ausgebildete Steinmetze, Steinbildhauer und Bürokaufleute. Durch permanente Weiterbildung finden Sie bei uns stets Ihren sachkundigen Ansprechpartner. Wir bieten Ausbildungsplätze zum Steinmetz, Steinbildhauer, Naturwerksteinmechaniker, Fliesenleger und Bürokaufmann und sorgen so stets für qualifizierten Nachwuchs.
+										Im Team von Kettelgerdes Marmor arbeiten ausgebildete Steinmetze, Steinbildhauer und Bürokaufleute. Durch permanente Weiterbildung finden Sie bei uns stets Ihren sachkundigen Ansprechpartner. Wir bieten Ausbildungsplätze zum Steinmetz, Steinbildhauer, Naturwerksteinmechaniker, Fliesenleger und Kaufmann/Kaufffrau für Büromanagement an und sorgen so stets für qualifizierten Nachwuchs.
 									</p>
 									</div>
 								</div>
@@ -336,7 +336,7 @@
 								<div class="col-md-10 col-xs-10">
 									<h3>Öffnungszeiten</h3>
 									<p>
-										Mo-Fr	: 8.00 - 17.00 Uhr<br />
+										Mo-Fr	: 8.00 - 18.00 Uhr<br />
 										Sa      	: 9.00 - 12.00 Uhr
 									</p>
 								</div>

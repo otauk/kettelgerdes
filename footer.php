@@ -53,7 +53,7 @@
 					<div class="col-md-2 col-xs-6">
 						<h3 class="highlight">Öffnungszeiten</h3>
 						<p>
-							Mo-Fr	: 8.00 - 17.00 Uhr<br />
+							Mo-Fr	: 8.00 - 18.00 Uhr<br />
 							Sa      	: 9.00 - 12.00 Uhr
 						</p>
 						<h3 class="highlight">Social Media</h3>

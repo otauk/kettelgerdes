@@ -419,19 +419,20 @@ z-index: 1;
 
 .vorteile {
 	padding: 20px 15px;
+
+
+		& li {
+		width: 33%;
+		float: left;
+		list-style: square;
+		font-weight: bold;
+
+			& span {
+				color: @kg-sand;
+			}
+		}
 }
 
-.vorteile li {
-	width: 33%;
-	float: left;
-	list-style: square;
-	font-weight: bold;
-
-
-	& span {
-		color: @kg-sand;
-	}
-}
 
 
 
@@ -669,4 +670,11 @@ footer {
 		width: 50%;
 		background-size: contain;
 	}
+
+	.vorteile {
+		&>li {
+			width: 100%;
+		}
+	}
+
 }

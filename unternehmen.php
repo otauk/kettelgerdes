@@ -93,7 +93,8 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 									<li><span>Küchenarbeitsplatten </span></li>
 									<li><span>Waschtischplatten</span></li>
 									<li><span>Duschtassen </span></li>
-									<li><span>Terrassenbelägeest</span></li>
+									<li><span>Terrassenbeläge</span></li>
+									<li><span>Außentreppen</span></li>
 									<li><span>Reparaturdienst</span></li>
 								</ul>
 							</div>
