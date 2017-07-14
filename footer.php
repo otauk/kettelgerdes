@@ -1,7 +1,7 @@
 			<footer>
 				<div class="row darkearth benefit">
 				<div class="container">
-					<div class="col-md-2 hidden-xs">
+					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Navigation</h3>
 						<ul>
 							<li><a href="#home">Home</a></li>
@@ -12,7 +12,7 @@
 							<li><a href="impressum.php">Impressum</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2 hidden-xs">
+					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Wohnen</h3>
 						<ul>
 							<li><a href="wohnen.php#bad">Bad</a></li>
@@ -23,7 +23,7 @@
 							<li><a href="wohnen.php#aussenbereich">Fensterbänke</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2 hidden-xs">
+					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Architektur</h3>
 						<ul>
 							<li><a href="architektur.php#terrassen">Terassen</a></li>
@@ -32,7 +32,7 @@
 							<li><a href="architektur.php#fassaden">Fassaden</a></li>
 						</ul>
 					</div>
-					<div class="col-md-2 hidden-xs">
+					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Bildhauerei</h3>
 						<ul>
 							<li><a href="bildhauerei.php#skulpturen">Skulpturen</a></li>

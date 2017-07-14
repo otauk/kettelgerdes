@@ -44,9 +44,9 @@
 				</section>
 				<section id="oeffentliche_gebaeude">
 					<div class="row sandstone">
-						<div class="container">
-							<div class="col-md-6 flexImg">
-								<div class="col-md-8">
+						<div class="container flexOrder">
+							<div class="col-md-6 flexImg item1">
+								<div class="col-md-8 hidden-xs hidden-sm">
 									<div class="galleryView">
 										<a href="img/architektur/oeffentliche_gebaeude/bankeingang_naturstein.jpg" data-lightbox="oeffentliche_gebaeude">
 											<img src="img/architektur/oeffentliche_gebaeude/bankeingang_naturstein.jpg" alt="">
@@ -108,7 +108,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 item2">
 								<h2 class="subH2">Öffentliche Gebäude</h2>
 									<p>
 										Ob Kirche, Kloster oder Schloss — gerade hier sind Natursteine traditionell häufig im Einsatz. Vom neu gestalteten Altar bis zur Restaurierung von Skulpturen oder Fassaden - Wir sind Ihre fachkundigen Spezialisten. Gern erläutern wir Ihnen unsere bislang vollendeten Projekte und planen neue.
@@ -154,7 +154,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-md-10">
+							<div class="col-md-10 hidden-xs hidden-sm">
 								<div class="galleryView">
 									<a href="img/architektur/gewerbe/basaltsteine.jpg" data-lightbox="gewerbe">
 										<img src="img/architektur/gewerbe/basaltsteine.jpg" alt="">
@@ -167,9 +167,9 @@
 				</section>
 				<section id="fassaden">
 					<div class="row sandstone">
-						<div class="container">
-							<div class="col-md-6 flexImg">
-								<div class="col-md-8 ">
+						<div class="container flexOrder">
+							<div class="col-md-6 flexImg item1">
+								<div class="col-md-8 hidden-xs hidden-sm">
 									<div class="galleryView">
 										<a href="img/architektur/fassaden/bruchsteine_garten.jpg" data-lightbox="fassaden">
 											<img src="img/architektur/fassaden/bruchsteine_garten.jpg" alt="">
@@ -231,7 +231,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-6 item2">
 								<h2 class="subH2">Fassaden</h2>
 									<p>
 										Durch ihre breite Farbpalette und verschiedensten Charaktereigenschaften bieten sich Natursteine für eine moderne Fassadengestaltung an. Bausteine aus Naturstein sind Unikate, die sich untereinander und mit vielen anderen Materialien wie Glas oder Edelstahl kombinieren lassen.

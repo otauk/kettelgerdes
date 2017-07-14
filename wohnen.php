@@ -44,9 +44,9 @@
 				</section>
 				<section id="kueche">
 					<div class="row sandstone">
-						<div class="container">
-							<div class="col-md-6 flexImg">
-							<div class="col-md-8">
+						<div class="container flexOrder">
+							<div class="col-md-6 col-xs-12 flexImg item1">
+							<div class="col-md-8 hidden-sm hidden-xs">
 								<div class="galleryView">
 									<a href="img/wohnen/kueche/arbeitsplatte_hochglanz_poliert.jpg" data-lightbox="kueche" >
 										<img src="img/wohnen/kueche/arbeitsplatte_hochglanz_poliert.jpg" />
@@ -108,7 +108,7 @@
 								</div>
 							</div>
 						</div>
-							<div class="col-md-6">
+							<div class="col-md-6 item2">
 							<h2 class="subH2">Die Küche</h2>
 								<p>
 									Wenn Sie die robuste Küchenarbeitsplatte suchen, bietet sich Naturstein geradezu an. Granit weist durch seinen hohen Quarzanteil einen Härtegrad auf, der die Arbeitsplatte nahezu unverwüstlich werden lässt. Sie ist zudem wasserunempfindlich, säurefest, kratzfest, pflegeleicht, hygienisch und hitzebeständig. Ob polierte oder matt geschliffene Oberfläche, ob abgerundete oder gefaste Kanten - nahezu alle Veredelungstechniken, Kantenbearbeitungen und Zuschnitte sind bei uns möglich.
@@ -181,7 +181,7 @@
 										</a>
 									</div>
 								</div>
-								<div class="col-md-8">
+								<div class="col-md-8 hidden-sm hidden-xs">
 									<div class="galleryView">
 										<a href="img/wohnen/bad/duschkabine_naturtstein.jpg" data-lightbox="bad">
 											<img src="img/wohnen/bad/duschkabine_naturtstein.jpg" alt=""  />
@@ -194,9 +194,9 @@
 				</section>
 				<section id="kamin">
 					<div class="row sandstone">
-						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-10 ">
+						<div class="container flexOrder">
+						<div class="col-md-6 flexImg item1">
+							<div class="col-md-10 hidden-sm hidden-xs">
 								<div class="galleryView">
 									<a href="img/wohnen/kamin/kamin_granit.jpg" data-lightbox="kamin">
 										<img src="img/wohnen/kamin/kamin_granit.jpg" alt="">
@@ -231,7 +231,7 @@
 								</div>
 							</div>
 					</div>
-						<div class="col-md-6">
+						<div class="col-md-6 item2">
 							<h2 class="subH2">Der Kamin</h2>
 								<p>
 									Was gibt es schöneres als sich im Winter vor dem eigenen Kamin zu wärmen? Auch hier sorgt Naturstein für das mehr an Wohlgefühl. Denn jeder unserer Kamineinfassungen aus Marmor oder Granit - ob nun klassisch oder modern - schafft ein einzigartiges Ambiente. Zudem speichert Naturstein die Wärme länger und gibt sie kontinuierlicher ab als beispielsweise Öfen aus Metall. Ganz nach Ihren Wünschen gestalten wir Ihren Platz der Behaglichkeit.
@@ -305,7 +305,7 @@ Auch im Außenbereich bietet sich Naturstein durch seine Langlebigkeit an. Trepp
 									</a>
 								</div>
 							</div>
-							<div class="col-md-8">
+							<div class="col-md-8 hidden-sm hidden-xs">
 								<div class="galleryView">
 									<a href="img/wohnen/treppe/antirutsch_treppe.jpg" data-lightbox="treppe">
 										<img src="img/wohnen/treppe/antirutsch_treppe.jpg" alt="">
@@ -318,9 +318,9 @@ Auch im Außenbereich bietet sich Naturstein durch seine Langlebigkeit an. Trepp
 				</section>
 				<section id="boeden_und_fenster">
 					<div class="row sandstone">
-						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-8">
+						<div class="container flexOrder">
+						<div class="col-md-6 flexImg item1">
+							<div class="col-md-8 hidden-sm hidden-xs">
 								<div class="galleryView">
 									<a href="img/wohnen/boden/boden_badfliesen.jpg" data-lightbox="boden_und_fenster">
 										<img src="img/wohnen/boden/boden_badfliesen.jpg" alt="">
@@ -382,7 +382,7 @@ Auch im Außenbereich bietet sich Naturstein durch seine Langlebigkeit an. Trepp
 								</div>
 							</div>
 					</div>
-						<div class="col-md-6">
+						<div class="col-md-6 item2">
 							<h2 class="subH2">Die Böden und Fenster</h2>
 								<p>
 									Bodenbeläge und auch Fensterbänke aus Marmor oder Granit verleihen Ihrem Heim dezente Anmut. Ob Terrasse oder Wohnbereich: Natursteinfliesen und Bodenplatten führen wir in verschiedenen handelsüblichen Maßen und Stärken. Eine Nuance mehr Charme bekommen Sie, wenn Sie sich an der Natur des Steins orientieren und so genannte freie Maße wählen. - Wir beraten Sie gern. Natursteine für Fensterbänke führen wir in den verschiedensten Stärken, Farbtönen, Strukturierungen und Oberflächenbehandlungen. Für den Außenbereich eignet sich vor allem frostsicheres und witterungsbeständiges Hartgestein wie Granit.  Für den Innenbereich können Sie aus der unserer gesamten Produktpalette wählen.

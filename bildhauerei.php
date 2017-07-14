@@ -7,23 +7,20 @@
 				<section id="intro">
 					<div  class="container">
 						<div class="row rechteck">
-								<div class="haken">
-
-								</div>
-
+								<div class="haken"></div>
 						<h2>Bildhauerei</h2>
 						<p class="text-center">
 							Die Bildhauerei ist sozusagen die Kür unseres Schaffens. Sie dokumentiert umfassend wie sich Können elegant mit Kreativität verknüpfen lässt. In den drei Kategorien stellen wir Ihnen einige Bildhauer-Arbeiten vor.
 						</p>
+						</div>
 					</div>
-				</div>
 				</section>
 				<section id="grabmale">
 					<div class="row sandstone">
-						<div class="container">
-						<div class="col-md-6 col-xs-12 flexImg">
+						<div class="container flexOrder">
+							<div class="col-md-6 col-xs-12 flexImg item1">
 							<div class="col-md-8 hidden-xs">
-								<div class="galleryView hidden-xs">
+								<div class="galleryView">
 									<a href="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" data-lightbox="grabmale">
 										<img src="img/bildhauerei/grabmale/ausstellung_grabzubehoer_400.jpg" alt="">
 									</a>
@@ -83,16 +80,16 @@
 									</a>
 								</div>
 							</div>
-					</div>
-						<div class="col-md-6">
-							<h2 class="subH2">Grabmale</h2>
-								<p>
-									Die letzte Ruhestätte ist ein Ort der Ehrerbietung gegenüber dem Verstorbenen. Ein individuelles Grabmal aus Naturstein schafft eine Stätte des würdevollen Gedenkens, die Generationen überdauert. Mit einem Grabmal schaffen Sie die Möglichkeit in ganz persönlicher Weise an den Verstorbenen zu erinnern und ihn zu würdigen. Die Einzigartigkeit des Verstorbenen wird in der Gestaltung eines Grabmals sichtbar. Lassen Sie sich von uns persönlich und diskret beraten.
-								</p>
 						</div>
+							<div class="col-md-6 item2">
+								<h2 class="subH2">Grabmale</h2>
+									<p>
+										Die letzte Ruhestätte ist ein Ort der Ehrerbietung gegenüber dem Verstorbenen. Ein individuelles Grabmal aus Naturstein schafft eine Stätte des würdevollen Gedenkens, die Generationen überdauert. Mit einem Grabmal schaffen Sie die Möglichkeit in ganz persönlicher Weise an den Verstorbenen zu erinnern und ihn zu würdigen. Die Einzigartigkeit des Verstorbenen wird in der Gestaltung eines Grabmals sichtbar. Lassen Sie sich von uns persönlich und diskret beraten.
+									</p>
+							</div>
 						</div>
 					</div>
-								</section>
+				</section>
 				<section id="vorteile">
 					<div class="benefitBar">
 
@@ -119,9 +116,9 @@
 				</section>
 				<section id="skulpturen">
 					<div class="row sandstone">
-						<div class="container">
-							<div class="col-md-6 flexImg">
-								<div class="col-md-8 col-xs-12">
+						<div class="container flexOrder">
+							<div class="col-md-6 col-xs-12 flexImg item1">
+								<div class="col-md-8 hidden-lg-down">
 									<div class="galleryView">
 										<a href="img/bildhauerei/skulpturen/baccus.jpg" data-lightbox="skulpturen">
 											<img src="img/bildhauerei/skulpturen/baccus.jpg" alt="">
@@ -157,39 +154,39 @@
 									</div>
 								</div>
 								<div class="col-md-2 thumbFlex">
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/kopf_figur.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/kopf_figur.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/naturstein_einschluss.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/naturstein_einschluss.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/pfau_vogeltraenke.jpg" data-lightbox="skulpturen">
-									 <img src="img/bildhauerei/skulpturen/pfau_vogeltraenke.jpg" alt="">
-								 </a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/steinmetz_arbeit.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/steinmetz_arbeit.jpg" alt="">
-									</a>
-								</div>
-								<div class="galleryThumb">
-									<a href="img/bildhauerei/skulpturen/steinskulptur_pfau.jpg" data-lightbox="skulpturen">
-										<img src="img/bildhauerei/skulpturen/steinskulptur_pfau.jpg" alt="">
-									</a>
-								</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/kopf_figur.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/kopf_figur.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/naturstein_einschluss.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/naturstein_einschluss.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/pfau_vogeltraenke.jpg" data-lightbox="skulpturen">
+										 <img src="img/bildhauerei/skulpturen/pfau_vogeltraenke.jpg" alt="">
+									 </a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/steinmetz_arbeit.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/steinmetz_arbeit.jpg" alt="">
+										</a>
+									</div>
+									<div class="galleryThumb">
+										<a href="img/bildhauerei/skulpturen/steinskulptur_pfau.jpg" data-lightbox="skulpturen">
+											<img src="img/bildhauerei/skulpturen/steinskulptur_pfau.jpg" alt="">
+										</a>
+									</div>
 							</div>
 							</div>
-							<div class="col-md-6 ">
+							<div class="col-md-6 item2 ">
 							<h2 class="subH2">Skulpturen</h2>
 								<p>
 									Eine Bereicherung für jede Außenanlage sind spezielle angefertigte Steinskulpturen. Hier zeigen wir Ihnen unser gesamtes handwerkliches Können und gehen auch sehr gern auf Ihre Wünsche sowie Vorstellungen ein.
-							</p>
-						</div>
+								</p>
+							</div>
 						</div>
 					</div>
 				</section>
@@ -230,7 +227,7 @@
 									</a>
 								</div>
 							</div>
-							<div class="col-md-10 col-xs-12">
+							<div class="col-md-10 hidden-xs">
 								<div class="galleryView">
 									<a href="img/bildhauerei/brunnen/20.7.2005-005_web.jpg" data-lightbox="brunnen">
 										<img src="img/bildhauerei/brunnen/20.7.2005-005_web.jpg" alt="">
