@@ -23,9 +23,9 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 				</section>
 				<section id="maschinenpark">
 					<div class="row sandstone">
-						<div class="container">
-						<div class="col-md-6 flexImg">
-							<div class="col-md-10">
+						<div class="container flexOrder">
+						<div class="col-md-6 flexImg item1">
+							<div class="col-md-10 hidden-xs hidden-sm">
 								<div class="galleryView">
 									<a href="#" data-lightbox="unternehmen">
 										<img src="img/unternehmen/ausstellung_grabzubehoer.jpg" alt="">

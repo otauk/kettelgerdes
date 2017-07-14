@@ -188,6 +188,7 @@
 				</section>
 				<section id="galerie">
 					<div class="container">
+					<div class="galerie">
 					<h2>Galerie</h2>
 						<ul class="grid effect-1" id="grid">
 							<li><img src="img/galerie/bad/badezimmer_jura_gelb.JPG"></li>
@@ -222,6 +223,7 @@
 							<li><img src="img/galerie/treppen/treppen_aus_naturstein.JPG"></li>
 
 						</ul>
+					</div>
 					</div>
 					<div class="socialMediaButtons">
 						<h3>Für mehr Bilder & Videos folgen Sie uns einfach auf</h3>

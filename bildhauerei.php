@@ -118,7 +118,7 @@
 					<div class="row sandstone">
 						<div class="container flexOrder">
 							<div class="col-md-6 col-xs-12 flexImg item1">
-								<div class="col-md-8 hidden-lg-down">
+								<div class="col-md-8 hidden-xs hidden-sm">
 									<div class="galleryView">
 										<a href="img/bildhauerei/skulpturen/baccus.jpg" data-lightbox="skulpturen">
 											<img src="img/bildhauerei/skulpturen/baccus.jpg" alt="">

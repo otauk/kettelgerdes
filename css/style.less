@@ -334,12 +334,12 @@ z-index: 1;
 }
 
 .slideboxButton {
-	width: 11em;
+	padding: 0 15px;
 	height: 2em;
 	text-transform: uppercase;
 	font-family: 'Noto Serif', serif;
 	font-weight: bold;
-	font-size: 1.050em;
+	font-size: 1.00em;
 	color:#fff;
 	border: none;
 
@@ -478,10 +478,6 @@ margin: .25em;
 		padding: 0 15px;
 		}
 	}
-}
-
-.maschinenpark {
-	padding: 0 20px;
 }
 
 .callToAction {
@@ -642,6 +638,11 @@ footer {
 
 }
 @media screen and (max-width:992px) {
+
+	.thumbFlex {
+		width:100%;
+	}
+
 	.brownBar,
 	.testBar,
 	.cardOverlay
@@ -701,6 +702,11 @@ footer {
 
 	.slideControls {
 		justify-content: center;
+		width: 100%;
+	}
+
+	.slideboxButton {
+		padding: 0 5px;
 	}
 
 	.vorteile {
@@ -751,7 +757,7 @@ footer {
 
 @media screen and (max-width:768px) {
 
-	#galerie {
+	.galerie {
 		display: none;
 	}
 
