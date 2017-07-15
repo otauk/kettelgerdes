@@ -246,7 +246,7 @@
 						<h2>Service</h2>
 						<div class="text-center">
 						<p>
-							Unsere Show-Räume sind für Sie wochentags von 8:00 bis 12:30 Uhr sowie von 14:00 Uhr bis 18:00 Uhr geöffnet. Am Samstag sind wir von 9 bis 12 Uhr für Sie da.
+							Unsere Show-Räume sind für Sie wochentags von 8:00 bis 18:00 Uhr geöffnet. Am Samstag sind wir von 9:00 bis 12:00 Uhr für Sie da.
 						</p>
 						<p>
 						Im Downloadbereich können Sie unsere Unternehmensbroschüre und Pflegehinweise herunterladen. Dort finden sie auch Informationen über unsere allgemeinen Geschäftsbedingungen.

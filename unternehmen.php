@@ -63,16 +63,11 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 						<div class="col-md-6">
 							<h2 class="subH2">Maschinenpark</h2>
 									<ul class="maschinenpark">
-										<li>5-Achs-CNC-Bearbeitungszentrum CMS Brembana Maxima</li>
-										<li>Diamantseilsäge Baumunk LS1-VA-125</li>
-										<li>Diamantseilsäge Arbes DSS 208</li>
-										<li>Fräsmaschine Arbes UNI 180/1.2 DS</li>
-										<li>Fräsmaschine Arbes UNI 180/2</li>
-										<li>Bearbeitungszentrum Thibaut T110</li>
-										<li>Schleifautomat Fickert + Winterling ASP 103</li>
-										<li>Kantenschleifautomat Thibaut T 612 A</li>
-										<li>Kantenschleifautomat Musa</li>
-										<li>4 x Absaugbank C.O.B.A.L.M. D/10 B</li>
+										<li>5-Achs-CNC-Bearbeitungszentrum CMS Brembana Concept 2.1</li>
+										<li>Bearbeitungszentrum Thibaut T108</li>
+										<li>Brückensäge Schlatter  BS 600</li>
+										<li>Brückensäge Breton Smart Cut S/NC 550 Optima</li>
+										<li>Kantenschleifautomat Comanduli Edilux</li>
 									</ul>
 						</div>
 						</div>
