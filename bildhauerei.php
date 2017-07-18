@@ -43,7 +43,7 @@
 									</a>
 								</div>
 								<div class="galleryThumb">
-									<a href="img/bildhauerei/grabmale/doppelgtrabstein_see.jpg" data-lightbox="grabmale">
+									<a href="img/bildhauerei/grabmale/doppelgrabstein_see.jpg" data-lightbox="grabmale">
 										<img src="img/bildhauerei/grabmale/doppelgrabstein_see.jpg" alt="">
 									</a>
 								</div>

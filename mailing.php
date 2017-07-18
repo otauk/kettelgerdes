@@ -20,8 +20,7 @@
 	$header = 'Content-type: text/html; charset=utf-8' . "\r\n";
 	$header .= "From: $sender <$sendermail>\r\n";
 
-	//$mail = "info@antheo-webagentur.de";
-	$mail = "info@antheo-webagentur.de";
+	$mail = "info@kettelgerdes.de";
 
 
 

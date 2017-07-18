@@ -262,19 +262,22 @@
 									Damit Sie lange Freude an Ihrem Naturstein haben, erhalten Sie hier einige Tipps zum Reinigen, Pflegen und Schützen von Natursteinen.
 								</p>
 								<p>
-								Unsere ausführliche Pflegebroschüre finden Sie hier.
-								</p>
-								<p>
 								Grundsätzlich gilt:
 								</p>
 								<p>
-								Alle Marmorsorten wie auch andere Kalksteine sind säureempfindlich. Daher muss man bei der Pflege und im Umgang ein paar Dinge beachten, um die Schönheit der Naturprodukte langfristig zu erhalten. All diese Hinweise sind jedoch leicht einzuhalten und Naturstein bleibt dann über Jahre hinweg so schön wie am ersten Tag.
-								</p>
-								<p>
+								Alle Marmorsorten wie auch andere Kalksteine sind säureempfindlich. Daher muss man bei der Pflege und im Umgang ein paar Dinge beachten, um die Schönheit der Naturprodukte langfristig zu erhalten. All diese Hinweise sind jedoch leicht einzuhalten und Naturstein bleibt dann über Jahre hinweg so schön wie am ersten Tag.<br>
 								Säurehaltige Substanzen wie Essig, Zitronensaft und auch manche Haushaltsreiniger greifen den Stein an und zerstören seine Politur, es entstehen unter Umständen sofort matte Flecken. Diese kann man dann später nur noch maschinell entfernen. Rückstände von ungeeigneten Reinigungsmitteln oder angegriffene Oberflächen lassen ihn zudem schneller verschmutzen. Sie sind daher ungeeignet wie auch Scheuerpulver u.ä. Ebenfalls kann die Verwendung von Schleif- bzw. Scheuerschwämmen zu Schäden führen.
 								</p>
 								<p>
 								Vermeiden Sie daher den Kontakt der o.g. Produkte mit dem Naturstein und verwenden Sie neben Wasser nur geeignete Reinigungsprodukte. Wie immer beraten wir Sie natürlich auch zu diesem Punkt jederzeit sehr gerne.
+								</p>
+								<p>
+								Unsere ausführlichen Pflegebroschüren finden Sie hier:<br>
+								<a href="downloads/Pflegeanleitung_granit-gneis_kl.pdf" target="_blank">Pflegeanleitung Küchenarbeitsplatten</a><br>
+								<a href="downloads/Pflegeanleitung_kuechenarbeitsplatten_kl.pdf" target="_blank">Pflegeanleitung Granit</a>
+								</p>
+								<p>
+									Weitere Informationen bekommen Sie auch auf der Seite von <a href="http://www.moellerstonecare.eu/pflegeanleitung/pflegeanleitungen.html" target="_blank">Moeller Stone Care</a>
 								</p>
 							</dd>
               <dt>
@@ -285,15 +288,18 @@
               <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
 								<p>
 									Hier können Sie unsere Unternehmensbroschüre herunterladen:<br>
-									<a href="#">Kettelgerdes - Meisterwerke aus Naturstein (PDF)</a>
+									<a href="downloads/Kettelgerdes - Meisterwerke aus Naturstein.pdf" target="_blank">Kettelgerdes - Meisterwerke aus Naturstein (PDF)</a>
+<br>
+									<a href="downloads/Kettelgerdes - Grabmale in Stein.pdf" target="_blank">Kettelgerdes - Grabmale aus Naturstein (PDF)</a>
+
 								</p>
 								<p>
 									Hier können Sie unsere Pflegehinweise herunterladen:<br>
-									<a href="#">Pflegehinweise (PDF)</a>
+									<a href="downloads/" target="_blank">Pflegehinweise (PDF)</a>
 								</p>
 								<p>
 									Hier finden Sie unsere allgemeinen Geschäftsbedingungen:<br>
-									<a href="#">AGB Kettelgerdes (PDF)</a>
+									<a href="downloads/AGB's.pdf" target="_blank">AGB Kettelgerdes (PDF)</a>
 								</p>
               </dd>
 							<dt>

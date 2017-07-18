@@ -27,7 +27,7 @@ Technische Präzision geht bei uns mit handwerklichem Können und Liebe zum Mate
 						<div class="col-md-6 flexImg item1">
 							<div class="col-md-10 hidden-xs hidden-sm">
 								<div class="galleryView">
-									<a href="#" data-lightbox="unternehmen">
+									<a href="img/unternehmen/ausstellung_grabzubehoer.jpg" data-lightbox="unternehmen">
 										<img src="img/unternehmen/ausstellung_grabzubehoer.jpg" alt="">
 									</a>
 								</div>

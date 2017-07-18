@@ -9,24 +9,24 @@
 							<li><a href="index.php#unternehmen">Unternehmen</a></li>
 							<li><a href="index.php#galerie">Galerie</a></li>
 							<li><a href="index.php#service">Service</a></li>
-							<li><a href="impressum.php">Impressum</a></li>
+
 						</ul>
 					</div>
 					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Wohnen</h3>
 						<ul>
-							<li><a href="wohnen.php#bad">Bad</a></li>
 							<li><a href="wohnen.php#kueche">Küche</a></li>
+							<li><a href="wohnen.php#bad">Bad</a></li>
+							<li><a href="wohnen.php#kamin">Kamin</a></li>
 							<li><a href="wohnen.php#treppen">Treppen</a></li>
+							<li><a href="wohnen.php#treppen">Terrassen</a></li>
 							<li><a href="wohnen.php#boeden_und_fenster">Böden</a></li>
-							<li><a href="wohnen.php#aussenbereich">Terassen</a></li>
-							<li><a href="wohnen.php#aussenbereich">Fensterbänke</a></li>
+							<li><a href="wohnen.php#boeden_und_fenster">Fensterbänke</a></li>
 						</ul>
 					</div>
 					<div class="col-md-2 hidden-xs hidden-sm">
 						<h3>Architektur</h3>
 						<ul>
-							<li><a href="architektur.php#terrassen">Terassen</a></li>
 							<li><a href="architektur.php#gebaeude">Öffentliche Gebäude</a></li>
 							<li><a href="architektur.php#gewerbe">Gewerbe</a></li>
 							<li><a href="architektur.php#fassaden">Fassaden</a></li>
@@ -57,16 +57,20 @@
 							Sa      	: 9.00 - 12.00 Uhr
 						</p>
 						<h3 class="highlight">Social Media</h3>
+						<p>
 						<a href="https://www.facebook.com/KettelgerdesMarmor/" target="_blank">
-					<img src="./img/icons/facebook.png" alt="Facebook">
-					</a>
-					<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
-						<img src="./img/icons/pinterest.png" alt="Pinterest">
-					</a>
-					<a href="https://www.instagram.com/kettelgerdes_marmor/" target="_blank">
-						<img src="./img/icons/instagram.png" alt="Instagram">
-					</a>
-						</p>
+							<img src="./img/icons/facebook.png" alt="Facebook">
+						</a>
+						<a href="https://www.pinterest.de/kettelgerdes/" target="_blank">
+							<img src="./img/icons/pinterest.png" alt="Pinterest">
+						</a>
+						<a href="https://www.instagram.com/kettelgerdes_marmor/" target="_blank">
+							<img src="./img/icons/instagram.png" alt="Instagram">
+						</a>
+					</p>
+					<p>
+						<a href="impressum.php">Impressum</a>
+					</p>
 					</div>
 				</div>
 				</div>
