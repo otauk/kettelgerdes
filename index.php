@@ -273,8 +273,9 @@
 								</p>
 								<p>
 								Unsere ausführlichen Pflegebroschüren finden Sie hier:<br>
-								<a href="downloads/Pflegeanleitung_granit-gneis_kl.pdf" target="_blank">Pflegeanleitung Küchenarbeitsplatten</a><br>
-								<a href="downloads/Pflegeanleitung_kuechenarbeitsplatten_kl.pdf" target="_blank">Pflegeanleitung Granit</a>
+								<a href="downloads/Pflegeanleitung_kuechenarbeitsplatten_kl.pdf" target="_blank">Pflegeanleitung Küchenarbeitsplatten</a><br>
+								<a href="downloads/Pflegeanleitung_granit-gneis_kl.pdf" target="_blank">Pflegeanleitung Granit</a><br>
+								<a href="downloads/HMK Pflegeanleitung Marmor - Kalkstein TI-3.1.pdf" target="_blank">Pflegeanleitung Marmor</a>
 								</p>
 								<p>
 									Weitere Informationen bekommen Sie auch auf der Seite von <a href="http://www.moellerstonecare.eu/pflegeanleitung/pflegeanleitungen.html" target="_blank">Moeller Stone Care</a>
@@ -294,8 +295,11 @@
 
 								</p>
 								<p>
-									Hier können Sie unsere Pflegehinweise herunterladen:<br>
-									<a href="downloads/" target="_blank">Pflegehinweise (PDF)</a>
+								Unsere ausführlichen Pflegebroschüren finden Sie hier:<br>
+								<a href="downloads/Pflegeanleitung_kuechenarbeitsplatten_kl.pdf" target="_blank">Pflegeanleitung Küchenarbeitsplatten</a><br>
+								<a href="downloads/Pflegeanleitung_granit-gneis_kl.pdf" target="_blank">Pflegeanleitung Granit</a><br>
+								<a href="downloads/HMK Pflegeanleitung Marmor - Kalkstein TI-3.1.pdf" target="_blank">Pflegeanleitung Marmor</a>
+
 								</p>
 								<p>
 									Hier finden Sie unsere allgemeinen Geschäftsbedingungen:<br>
@@ -425,7 +429,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="form-group">
-								<input type="number" class="form-control" id="telefon" name="telefon" placeholder="">
+								<input type="tel" class="form-control" id="telefon" name="telefon" placeholder="">
 								<label for="firma">Telefon</label>
 						  	</div>
 							<div class="form-group">
